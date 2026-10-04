@@ -1,13 +1,14 @@
 <p align="center">
   <img src="https://mini.moonlab.top/post/20231224-14/rule34.svg">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Hello%20World%2C%20I'm%20Fall!&theme=dark&color=%23ff0000&particleColor=%23000000&background=%23ff0000">
 </p>
 
 ```Python
+Hello World! I'm Fall!
+```
+---
 An ambitious Information Systems student at Universitas Trunojoyo Madura
 with a deep passion for **Cyber Security** and network protection.
 I love learning how systems work, how they are breached, and how to defend them.
-```
 ---
 
 ### Tech Stack & Interests
