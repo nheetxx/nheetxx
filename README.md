@@ -9,6 +9,7 @@ Hello World! I'm Fall!
 An ambitious Information Systems student at Universitas Trunojoyo Madura
 with a deep passion for **Cyber Security** and network protection.
 I love learning how systems work, how they are breached, and how to defend them.
+
 ---
 
 ### Tech Stack & Interests
