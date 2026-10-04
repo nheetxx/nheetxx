@@ -39,7 +39,8 @@ An ambitious Information Systems student at Universitas Trunojoyo Madura with a 
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=nheetxx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" height="175" alt="GitHub Stats"/>
-  &nbsp;
+</p>
+<p>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=nheetxx&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
 </p>
 <p align="center">
