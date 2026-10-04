@@ -37,6 +37,21 @@ An ambitious Information Systems student at Universitas Trunojoyo Madura with a 
 ![](https://streak-stats.demolab.com/?user=nheetxx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nheetxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Z4nzu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" height="175" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Z4nzu&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Z4nzu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6" height="145" alt="Top Languages"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b27&height=80&section=footer" width="100%"/>
+</div>
+
 ###
 
 ---
