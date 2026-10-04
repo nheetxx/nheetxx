@@ -46,7 +46,7 @@
   <img src="https://mini.moonlab.top/post/20231224-14/rule34.svg">
 </p>
 
-```C
+```Python
 Hello World! I'm Fall!
 ```
 ---
