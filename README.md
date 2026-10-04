@@ -4,7 +4,9 @@
 </p>
 
 ```Python
-An ambitious Information Systems student at Universitas Trunojoyo Madura with a deep passion for **Cyber Security** and network protection. I love learning how systems work, how they are breached, and how to defend them.
+An ambitious Information Systems student at Universitas Trunojoyo Madura
+with a deep passion for **Cyber Security** and network protection.
+I love learning how systems work, how they are breached, and how to defend them.
 ```
 ---
 
