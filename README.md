@@ -61,7 +61,7 @@ I love learning how systems work, how they are breached, and how to defend them.
 - **Learning:** Loving Her
 
 ### Live Project
-- **Personal Portfolio Website:** [My Fall](https://myfall.pages.dev)
+- **Personal Portfolio Website:** [**fajarinnaufal.vercel.app**](https://fajarinnaufal.vercel.app)
 
 ###
 
