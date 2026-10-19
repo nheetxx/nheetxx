@@ -47,7 +47,8 @@
 </p>
 
 ```Python
-Hello World! I'm Fall!
+Hello World! I'm Fajarin Naufal Al Ghazir!
+Just call me Naufal :)
 ```
 ---
 An ambitious Information Systems student at Universitas Trunojoyo Madura
